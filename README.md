@@ -1,2 +1,9 @@
 # macow
-MAC obfuscating wrapper
+// MAC obfuscating wrapper //
+
+# compatibility
+Python 3 : OSX & nix variants
+
+
+
+
